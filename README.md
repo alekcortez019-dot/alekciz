@@ -55,11 +55,11 @@ Check out my complete collection of cybersecurity projects here:
  **[Cybersecurity Portfolio] https://github.com/alekcortez019-dot 
 
 Projects include:  
-✔ SIEM log analysis  
-✔ Incident response workflows  
-✔ Vulnerability scanning  
-✔ Network traffic analysis  
-✔ Linux security & hardening  
+- SIEM log analysis  
+- Incident response workflows  
+- Vulnerability scanning  
+- Network traffic analysis  
+- Linux security & hardening  
 
 ##  Certifications
 - Google Cybersecurity Professional Certificate  
